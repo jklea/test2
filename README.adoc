@@ -1,2 +1,2 @@
-== test2
+== Cobertura de código
 image::https://raw.githubusercontent.com/jklea/test2/main/relatorio.png[]
