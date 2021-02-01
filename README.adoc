@@ -1,3 +1,2 @@
 # test2
-image::[relatorio.png]
-![Relatório de Cobertura](relatorio.png)
+image::[https://raw.githubusercontent.com/jklea/test2/main/relatorio.png]
