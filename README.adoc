@@ -1,2 +1,2 @@
 # test2
-image::[https://raw.githubusercontent.com/jklea/test2/main/relatorio.png]
+image::https://raw.githubusercontent.com/jklea/test2/main/relatorio.png[relatorio.png]
