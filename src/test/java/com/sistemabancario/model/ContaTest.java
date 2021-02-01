@@ -113,14 +113,14 @@ public class ContaTest {
         assertEquals(esperado, obtido);
     }
     
-    @Test
+    /*@Test
     void testMovimentacaoNaoincluida(){
         final double limite = 500, deposito = 500;
         final Conta instance = new Conta();
         instance.setEspecial(true);
         instance.setLimite(limite);
         assertThrows(IllegalStateException.class, () -> instance.depositoDinheiro(deposito));
-    }
+    }*/
     
     @Test
     void testDepositoInvalido(){
